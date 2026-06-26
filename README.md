@@ -1,7 +1,7 @@
 # logicadeprogramacion
 25-06-2026 Bryan Narváez Arias
-Atari Pong
-El programa que escogimos fue el popular video juego que simula un tenis de mesa, Atari Pong
+ATARI PONG
+El programa que escogí fue el popular video juego que simula un tenis de mesa, Atari Pong
 Problema: crear un sistema que gestione partidas,lleve el puntaje y compruebe la habilidad de los jugadores. 
 Este proyecto pretende crear una lógica eficaz y simple para saber como deberia comportase el programa cuando este siendo usado por el usuario final, no es bajo ningun caso la creacion de un juego real, motor de video juego o algun script para alguna mecánica en concreto sino una manera de entender el flujo de datos, lógica del programa y sobre todo un ejercicio en Python para reforzar lo aprendido en clase. A continuación, el programa
 El programa esta diseñado para que el jugador interactue con la interzas visual del juego, en donde podrá:iniciar partida, mover la raquera, bloquear jugadas del rival, incrementar su puntaje, ver el puntaje y ganar la partida
@@ -13,3 +13,5 @@ Se crearon variables de tipo string para usarlas en las condiciones que vamos a 
 Si la respuesta es no para alguno, será punto para su rival y se imprime en la pantalla de quien es el punto ganado y su puntaje actual
 Se saca de nuevo la pelota y retomamos el condicional if hasta que alguno de los jugadores llegue a 10 puntos
 Se declara un ganador
+REFLEXIÓN:
+La tecnología nos ayuda a simular escenarios o situaciones como un deporte, una probabilidad y como es este caso desarrollar una arquitectura para un juago, sin herramientas como VS Code o Python no podriamos hacerlo de una manera tan eficiente o ordenada, con este mismo documento y un conocimiento basico de Unity, sus físicas podríamos crear un juego identico al Atari popng
